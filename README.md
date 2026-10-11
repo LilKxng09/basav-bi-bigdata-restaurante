@@ -20,7 +20,7 @@ Universidad Privada del Norte – Ingeniería de Sistemas Computacionales.
 
 1. **Base de datos y DW:** en SQL Server, ejecutar el script de `sql/` completo (crea BD_PUNTOVENTA, carga datos de prueba, dimensiones y hechos). La última consulta muestra los conteos esperados: 5 / 5 / 3 / 3 / 2 / 3 en dimensiones, 9 ventas y 6 pagos.
 2. **Dashboard:** abrir `powerbi/puntoventa.pbix` en Power BI Desktop y actualizar la conexión a la instancia local de SQL Server.
-3. **Big Data:** abrir `bigdata/BigData_PySpark_Restaurante.ipynb` en Google Colab y ejecutar todas las celdas. Genera datos sintéticos (semilla 42) de 10 000, 100 000 y 1 000 000 de filas, y compara pandas con Spark en modo local.
+3. **Big Data:** abrir `bigdata/ProyectoFinal_BigData_PySpark.ipynb` en Google Colab y ejecutar todas las celdas. Genera datos sintéticos (semilla 42) de 10 000, 100 000 y 1 000 000 de filas, y compara pandas con Spark en modo local.
 
 ## Dependencias
 
