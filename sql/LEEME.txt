@@ -1,0 +1,1 @@
+Coloca aquí tu script .sql (DDL de BD_PUNTOVENTA y del DW, datos de prueba, ETL y validación).
